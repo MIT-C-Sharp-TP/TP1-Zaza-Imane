@@ -1,0 +1,14 @@
+C:\Users\E14\Arena\bin\Debug\net10.0\Arena.exe
+C:\Users\E14\Arena\bin\Debug\net10.0\Arena.deps.json
+C:\Users\E14\Arena\bin\Debug\net10.0\Arena.runtimeconfig.json
+C:\Users\E14\Arena\bin\Debug\net10.0\Arena.dll
+C:\Users\E14\Arena\bin\Debug\net10.0\Arena.pdb
+C:\Users\E14\Arena\obj\Debug\net10.0\Arena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E14\Arena\obj\Debug\net10.0\Arena.AssemblyInfoInputs.cache
+C:\Users\E14\Arena\obj\Debug\net10.0\Arena.AssemblyInfo.cs
+C:\Users\E14\Arena\obj\Debug\net10.0\Arena.csproj.CoreCompileInputs.cache
+C:\Users\E14\Arena\obj\Debug\net10.0\Arena.dll
+C:\Users\E14\Arena\obj\Debug\net10.0\refint\Arena.dll
+C:\Users\E14\Arena\obj\Debug\net10.0\Arena.pdb
+C:\Users\E14\Arena\obj\Debug\net10.0\Arena.genruntimeconfig.cache
+C:\Users\E14\Arena\obj\Debug\net10.0\ref\Arena.dll

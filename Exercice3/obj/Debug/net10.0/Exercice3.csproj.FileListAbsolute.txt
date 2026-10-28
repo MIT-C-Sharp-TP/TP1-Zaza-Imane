@@ -1,0 +1,14 @@
+C:\Users\E14\Exercice3\bin\Debug\net10.0\Exercice3.exe
+C:\Users\E14\Exercice3\bin\Debug\net10.0\Exercice3.deps.json
+C:\Users\E14\Exercice3\bin\Debug\net10.0\Exercice3.runtimeconfig.json
+C:\Users\E14\Exercice3\bin\Debug\net10.0\Exercice3.dll
+C:\Users\E14\Exercice3\bin\Debug\net10.0\Exercice3.pdb
+C:\Users\E14\Exercice3\obj\Debug\net10.0\Exercice3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E14\Exercice3\obj\Debug\net10.0\Exercice3.AssemblyInfoInputs.cache
+C:\Users\E14\Exercice3\obj\Debug\net10.0\Exercice3.AssemblyInfo.cs
+C:\Users\E14\Exercice3\obj\Debug\net10.0\Exercice3.csproj.CoreCompileInputs.cache
+C:\Users\E14\Exercice3\obj\Debug\net10.0\Exercice3.dll
+C:\Users\E14\Exercice3\obj\Debug\net10.0\refint\Exercice3.dll
+C:\Users\E14\Exercice3\obj\Debug\net10.0\Exercice3.pdb
+C:\Users\E14\Exercice3\obj\Debug\net10.0\Exercice3.genruntimeconfig.cache
+C:\Users\E14\Exercice3\obj\Debug\net10.0\ref\Exercice3.dll
